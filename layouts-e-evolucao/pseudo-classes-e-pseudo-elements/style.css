@@ -14,6 +14,24 @@ div:not(.nao) {
   border: 2px solid red;
 } */
 
-div:nth-child(2) {
+/* div:nth-child(2) {
   background-color: aqua;
-}
+} */
+
+/* div::first-letter {
+  font-size: 40px;
+} */
+
+/* div {
+  position: relative;
+} */
+
+/* div::before {
+  content: "a";
+  height: 100%;
+  width: 2px;
+  background-color: red;
+  position: absolute;
+  top: 0;
+  left: 0;
+} */

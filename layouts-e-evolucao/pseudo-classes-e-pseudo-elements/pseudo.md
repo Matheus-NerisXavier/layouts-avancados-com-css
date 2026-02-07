@@ -3,6 +3,8 @@
 - pseudo-classes 
   hover 
   functional -> not() -> has()
-  structura
+  structura -> root -> nth-child(n)
 
-- pseudo-elements -> root -> nth-child(n)
+- pseudo-elements 
+  first-letter
+  before / after
