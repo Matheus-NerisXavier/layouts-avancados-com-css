@@ -1,6 +1,5 @@
-# Alignment & spaces 
+# Justify-Content
 
-- justify-content
   alinhamento dentro do container
   distribuição dos elementos no eixo principal
   valores {
@@ -11,10 +10,4 @@
     - space-around
     - space-between
   }
-
-- align-items
-
-- gap
-
-- margin
 
